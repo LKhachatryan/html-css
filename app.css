@@ -1,0 +1,28 @@
+                         
+
+h1 {
+color: rgb(66, 228, 252);
+/* border-color: purple;
+border-width: 5px;
+border-style: solid; */
+border: 5px double purple;
+}
+
+li {
+    color: green;
+}
+
+h4 {
+    color: purple;
+}
+
+h4 {
+    background-color: rgb(255, 100, 80);
+}
+
+body {
+    background: url(http://ps102q.org/wp-content/uploads/2014/01/wood-grain-resize.jpg) ; 
+    background-size: 50%;
+    background-repeat: no-repeat;
+    /* background-color: pink; */
+}
